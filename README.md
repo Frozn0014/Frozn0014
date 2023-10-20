@@ -1,9 +1,10 @@
 ### Hey, I'm frozn, a full stack developer from the United States.
 
 * 📍 **New York, USA**
-* Experienced in TypeScript, Vue, and traditional HTML & CSS web dev 🌐
-* Currently learning: Flutter & Dart 🎯
-* Want to learn: C++ and C# 👨‍💻
+* Experienced in: ![TypeScript](https://img.shields.io/badge/TypeScript-377cc9?logo=TypeScript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-40b27f?logo=Vue.js&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e5532c?logo=HTML5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3ebff8?logo=Tailwind%20CSS&logoColor=white)
+
+* Currently learning: ![Flutter](https://img.shields.io/badge/Flutter-5cc3f0?logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%2332b8f7?logo=Dart&logoColor=white)
+* Want to learn: ![C++](https://img.shields.io/badge/C%2B%2B-6a9dd4?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-9e559a?logo=c%2B%2B&logoColor=white)
 
 ## Projects 👷‍♂️
 
